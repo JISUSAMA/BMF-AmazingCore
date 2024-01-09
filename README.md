@@ -2,7 +2,7 @@
 
 ## 프로젝트 소개
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/d648f4f2-4354-440a-81bd-3bdbb4e75407" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/35dc59a4-294a-4c78-a4a8-202fdb85e399" width="100%" height="100%">
 
 
 ### 보자마자 피트니스 - 어메이징 코어(Amazing Core)

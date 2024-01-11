@@ -2,7 +2,7 @@
 
 ## 프로젝트 소개
 
-<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/35dc59a4-294a-4c78-a4a8-202fdb85e399" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/35dc59a4-294a-4c78-a4a8-202fdb85e399">
 
 
 ### 보자마자 피트니스 - 어메이징 코어(Amazing Core)
@@ -25,13 +25,27 @@ Unity3D
 
 ## 기여도
 ### 2022.10 ~
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/7619de91-8280-44f7-99a4-0d5a9cee3220">
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/c5c5ca44-5010-4343-a0e5-11b4806658f9
+">
 UI 컨텐츠 적용 및 트레이닝 컨텐츠 1종/ 게임 3종 구현 개발
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/bf41bb63-7ec7-498d-927d-a52ccc14d47b">
+
+__게임 3종 구현 개발__
+- 딜리버리 맨 Delivery Man
+- 와이어 워크 Wire Walk
+- 타워 메이커 Tower Maker
+
 
 ### 2022.10 ~
 어메이징 코어 영문 버전 제작 작업
 
 ### 2023.03~
-어메이징 코어, 현지화 작업
+어메이징 코어, 현지화 작업<br>
+Localization을 사용한 한글 버전과 영문 버전 통합
 
 <br><br>
 
